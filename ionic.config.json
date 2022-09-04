@@ -1,0 +1,7 @@
+{
+  "name": "TIP_Hymn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
